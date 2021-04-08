@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerTable", "PowerTable\PowerTable.csproj", "{CCE63CAF-6F84-435D-80BE-15A02C3BFD55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCE63CAF-6F84-435D-80BE-15A02C3BFD55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE63CAF-6F84-435D-80BE-15A02C3BFD55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE63CAF-6F84-435D-80BE-15A02C3BFD55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE63CAF-6F84-435D-80BE-15A02C3BFD55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBBCDE13-D4ED-4A8B-A77E-EF68FFBA016D}
+	EndGlobalSection
+EndGlobal
