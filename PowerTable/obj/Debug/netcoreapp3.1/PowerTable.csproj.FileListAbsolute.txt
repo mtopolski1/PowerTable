@@ -1,0 +1,11 @@
+/Users/marktopolski/Projects/PowerTable/PowerTable/bin/Debug/netcoreapp3.1/PowerTable.deps.json
+/Users/marktopolski/Projects/PowerTable/PowerTable/bin/Debug/netcoreapp3.1/PowerTable.runtimeconfig.json
+/Users/marktopolski/Projects/PowerTable/PowerTable/bin/Debug/netcoreapp3.1/PowerTable.runtimeconfig.dev.json
+/Users/marktopolski/Projects/PowerTable/PowerTable/bin/Debug/netcoreapp3.1/PowerTable.dll
+/Users/marktopolski/Projects/PowerTable/PowerTable/bin/Debug/netcoreapp3.1/PowerTable.pdb
+/Users/marktopolski/Projects/PowerTable/PowerTable/obj/Debug/netcoreapp3.1/PowerTable.AssemblyInfoInputs.cache
+/Users/marktopolski/Projects/PowerTable/PowerTable/obj/Debug/netcoreapp3.1/PowerTable.AssemblyInfo.cs
+/Users/marktopolski/Projects/PowerTable/PowerTable/obj/Debug/netcoreapp3.1/PowerTable.csproj.CoreCompileInputs.cache
+/Users/marktopolski/Projects/PowerTable/PowerTable/obj/Debug/netcoreapp3.1/PowerTable.dll
+/Users/marktopolski/Projects/PowerTable/PowerTable/obj/Debug/netcoreapp3.1/PowerTable.pdb
+/Users/marktopolski/Projects/PowerTable/PowerTable/obj/Debug/netcoreapp3.1/PowerTable.genruntimeconfig.cache
